@@ -60,7 +60,6 @@ namespace Lab1A
             Console.WriteLine(a1);
             //2. declare variable with initialization 
             int b1 = 5;
-
         } 
     }
 }
