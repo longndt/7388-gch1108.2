@@ -1,19 +1,18 @@
 ﻿Console.Write("Enter a month (in number): ");
 int month = int.Parse(Console.ReadLine());
 
+
 /*
- if (month == 1)
-{
+if (month == 1) { 
+    Console.WriteLine(month);
     Console.WriteLine("January");
-} else if (month == 2)
-{
+}
+else if (month == 2)
     Console.WriteLine("February");
-}
 else if (month == 3)
-{
     Console.WriteLine("March");
-}
 */
+
 
 // switch case
 switch(month)
