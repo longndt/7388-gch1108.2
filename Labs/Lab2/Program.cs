@@ -10,8 +10,8 @@ Console.WriteLine("a > b : " + (a>b));
 Console.WriteLine("a >= b : " + (a>=b));
 Console.WriteLine(a < b);
 Console.WriteLine(a <= b);
-Console.WriteLine(a == b);
-Console.WriteLine(a != b);
+Console.WriteLine(a == b);  //equal
+Console.WriteLine(a != b);  //not equal
 
 
 Console.Write("Enter your name: ");
