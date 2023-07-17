@@ -14,6 +14,17 @@ if (grade >= 5.0)
 } 
 */
 
+/*
+ * 1 condition: if
+ * 2 conditions: if + else
+ * >2 conditions: if + else if + else
+ */
+
+/*
+ * and : &&
+ * or  : ||
+ */
+
 /* Grading range:
  * <0 || >10 : Invalid grade (else)
  * 0   - 4.9  : Refer (else if)
