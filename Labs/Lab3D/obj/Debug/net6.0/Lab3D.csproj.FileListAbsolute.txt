@@ -1,0 +1,15 @@
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\bin\Debug\net6.0\Lab3D.exe
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\bin\Debug\net6.0\Lab3D.deps.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\bin\Debug\net6.0\Lab3D.runtimeconfig.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\bin\Debug\net6.0\Lab3D.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\bin\Debug\net6.0\Lab3D.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.csproj.AssemblyReference.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.AssemblyInfoInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.AssemblyInfo.cs
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\refint\Lab3D.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\Lab3D.genruntimeconfig.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab3D\obj\Debug\net6.0\ref\Lab3D.dll

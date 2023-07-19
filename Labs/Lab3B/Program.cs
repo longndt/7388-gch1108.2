@@ -5,8 +5,8 @@ float x2 = (float)3.14;
 float x3 = 3.14f;
 
 Console.Write("Enter radius of circle: ");
-double r = double.Parse(Console.ReadLine());
-double area = Math.PI * r * r;
+double radius = double.Parse(Console.ReadLine());
+double area = Math.PI * Math.Pow(radius,2);
 Console.WriteLine("Area of circle: {0:F12}", area);
 
 double s1, s2, s3;
