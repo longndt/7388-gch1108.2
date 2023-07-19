@@ -1,0 +1,12 @@
+﻿int x1, x2, x3, x4;
+double result;
+Console.Write("Enter x1: ");
+x1 = int.Parse(Console.ReadLine());
+Console.Write("Enter x2: ");
+x2 = int.Parse(Console.ReadLine());
+Console.Write("Enter x3: ");
+x3 = int.Parse(Console.ReadLine());
+Console.Write("Enter x4: ");
+x4 = int.Parse(Console.ReadLine());
+result = ((x1 + x2) / x3) * x4;
+Console.WriteLine("Result: " + result);
