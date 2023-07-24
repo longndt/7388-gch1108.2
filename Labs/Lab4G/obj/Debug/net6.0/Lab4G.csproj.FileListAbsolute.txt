@@ -1,0 +1,15 @@
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\bin\Debug\net6.0\Lab4G.exe
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\bin\Debug\net6.0\Lab4G.deps.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\bin\Debug\net6.0\Lab4G.runtimeconfig.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\bin\Debug\net6.0\Lab4G.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\bin\Debug\net6.0\Lab4G.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.csproj.AssemblyReference.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.AssemblyInfoInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.AssemblyInfo.cs
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\refint\Lab4G.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\Lab4G.genruntimeconfig.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab4G\obj\Debug\net6.0\ref\Lab4G.dll
