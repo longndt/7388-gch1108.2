@@ -1,0 +1,15 @@
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\bin\Debug\net6.0\Lab5C.exe
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\bin\Debug\net6.0\Lab5C.deps.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\bin\Debug\net6.0\Lab5C.runtimeconfig.json
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\bin\Debug\net6.0\Lab5C.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\bin\Debug\net6.0\Lab5C.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.csproj.AssemblyReference.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.AssemblyInfoInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.AssemblyInfo.cs
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\refint\Lab5C.dll
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\Lab5C.genruntimeconfig.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab5C\obj\Debug\net6.0\ref\Lab5C.dll
