@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab6C
 {
+    /*
+     * Comment for file header:
+     * This is class "Laptop"
+     * - attributes: Name, Price, Origin
+     * - methods: constructor, showLaptopInfo(), getters, setters
+     */
     internal class Laptop
     {
         public String Name { get; set; }
@@ -19,6 +25,10 @@ namespace Lab6C
             Origin = "China";  //set default value
         }
 
+        /*
+         * Comment for function header:
+         * This function (method) is used to display laptop information
+         */
         public void showLaptopInfo()
         {
             Console.WriteLine("Laptop name: " + Name);
