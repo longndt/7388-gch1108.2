@@ -16,6 +16,7 @@ namespace Lab7B
         public Person() { }
         public Person(string name)
         {
+            //this: represent for class name
             this.name = name;
         }
         public Person(string name, int age)
