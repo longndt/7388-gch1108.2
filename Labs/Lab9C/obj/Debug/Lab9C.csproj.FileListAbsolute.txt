@@ -3,9 +3,10 @@ D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\bin\Debug\Lab9C.exe
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\bin\Debug\Lab9C.pdb
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.csproj.AssemblyReference.cache
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.csproj.SuggestedBindingRedirects.cache
-D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.Form1.resources
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.Properties.Resources.resources
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.csproj.GenerateResource.cache
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.csproj.CoreCompileInputs.cache
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.exe
 D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.LoginForm.resources
+D:\workspace\FGW-7388\7388-gch1108\Labs\Lab9C\obj\Debug\Lab9C.MainForm.resources
