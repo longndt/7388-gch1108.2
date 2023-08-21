@@ -184,8 +184,6 @@ namespace Registration
             } 
         }
 
-   
-
         private void btnDelete_Click(object sender, EventArgs e)
         {
             try
@@ -197,7 +195,9 @@ namespace Registration
                     // xóa item trong array list Registration Detail
                     registration_detail.RemoveAt(index);
             }
-            catch (ArgumentOutOfRangeException) { }
+            catch (ArgumentOutOfRangeException) {
+                MessageBox.Show("You must select a registration item first to delete !");
+            }
         }
 
         private void lbAvailable_DoubleClick(object sender, EventArgs e)

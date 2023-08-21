@@ -21,10 +21,10 @@ namespace PhoneBook
         Contact[] ct = new Contact[TOTAL_CONTACT];
         int i = 0;
         int index = 0;
+
         public PhoneBook()
         {
             InitializeComponent();
-
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -97,7 +97,6 @@ namespace PhoneBook
                 pbAvatar.Image = Image.FromFile(Path.Combine(destination, ct[index].Image));
             }
             catch (Exception) { }
-
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -136,11 +135,11 @@ namespace PhoneBook
                             writer.WriteLine("-----------------");
                         }
                     }
-                    //MessageBox.Show("Save data successfully !");
+                    MessageBox.Show("Save data successfully !");
                 }
                 else if (result == DialogResult.No)
                 {
-                    //MessageBox.Show("Goodbye !");
+                    MessageBox.Show("Goodbye !");
                 }
             }   
         }

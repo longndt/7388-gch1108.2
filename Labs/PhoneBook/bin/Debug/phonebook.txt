@@ -1,0 +1,12 @@
+CONTACT 1
+Name: Minh
+Mobile: 12321
+Address: fdsda
+Image: wallpaperflare.com_wallpaper.jpg
+-----------------
+CONTACT 2
+Name: sdsad
+Mobile: 21321
+Address: fdsdfsdf
+Image: wallpaperflare.com_wallpaper.jpg
+-----------------
