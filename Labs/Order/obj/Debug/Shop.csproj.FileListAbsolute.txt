@@ -1,0 +1,10 @@
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\bin\Debug\Shop.exe.config
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\bin\Debug\Shop.exe
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\bin\Debug\Shop.pdb
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.Shop.resources
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.exe
+C:\Dropbox\workspace\C#\PRO\WinFormApp\Shop\obj\Debug\Shop.pdb
